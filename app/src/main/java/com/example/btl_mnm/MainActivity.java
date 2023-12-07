@@ -14,10 +14,10 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
 import com.bumptech.glide.Glide;
-import com.example.btl_mnm.databinding.ActivityMainBinding;
-import com.example.btl_mnm.ui.favourite.FavouriteFragment;
-import com.example.btl_mnm.ui.home.HomeFragment;
-import com.example.btl_mnm.ui.search.SearchFragment;
+import com.example.necomovie.databinding.ActivityMainBinding;
+import com.example.necomovie.ui.favourite.FavouriteFragment;
+import com.example.necomovie.ui.home.HomeFragment;
+import com.example.necomovie.ui.search.SearchFragment;
 import com.google.android.material.appbar.MaterialToolbar;
 import com.google.android.material.navigation.NavigationBarView;
 import com.google.firebase.auth.FirebaseAuth;
